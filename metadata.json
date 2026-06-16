@@ -1,0 +1,6 @@
+{
+  "name": "Invitación-La-Mansion-de-Mili",
+  "description": "Exclusiva invitación digital interactiva de inauguración oficial para La Mansión de Mili.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
